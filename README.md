@@ -1,5 +1,8 @@
 # 📊 Hierarchical Risk Parity Portfolio Optimizer
 
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 This portfolio optimization tool implements Hierarchical Risk Parity (HRP) methodology to create well-diversified investment portfolios. This project combines modern portfolio theory with machine learning clustering techniques to achieve superior risk-adjusted returns through intelligent asset allocation.
 
 ## 🚀 Features
